@@ -1,8 +1,10 @@
+import { Box, Typography } from "@mui/material";
+
 function App() {
   return (
-    <div>
-      <p>Ola</p>
-    </div>
+    <Box>
+      <Typography>Ola</Typography>
+    </Box>
   );
 }
 
